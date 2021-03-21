@@ -1,5 +1,5 @@
-# FlaskAndReactMini 
-A template for Flask and React (no create-react-app)
+# ReactAndPythonYouTubeClone
+A YouTube Clone built using React and Python.
 
 ## Requirements:
 - Python 3.x
